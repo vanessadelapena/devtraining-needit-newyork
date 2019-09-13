@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA New Tab 2">e39ece66db333700d7f8e4da4b9619e6</grid_canvas>
+        <height>14</height>
+        <portal_widget display_value="Created 2019-09-12 22:32:31">ea0f0aa2dbfff300d7f8e4da4b961967</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-13 05:32:31</sys_created_on>
+        <sys_id>2a0fc6a6db333700d7f8e4da4b9619cd</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>e39ece66db333700d7f8e4da4b9619e6</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_2a0fc6a6db333700d7f8e4da4b9619cd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-13 05:36:12</sys_updated_on>
+        <width>8</width>
+    </sys_grid_canvas_pane>
+</record_update>

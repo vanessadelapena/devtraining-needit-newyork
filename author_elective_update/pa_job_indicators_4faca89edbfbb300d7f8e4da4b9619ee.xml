@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators">
+    <pa_job_indicators action="DELETE">
+        <active>true</active>
+        <collect>2</collect>
+        <collect_indicator>true</collect_indicator>
+        <display>temporary job for collecting NeedIt Request type - NeedIt: Active Weekly</display>
+        <indicator display_value="NeedIt: Active Weekly">64b5cdcadbbf7300d7f8e4da4b9619e5</indicator>
+        <job display_value="temporary job for collecting NeedIt Request type">47acac5edbfbb300d7f8e4da4b961945</job>
+        <sys_class_name>pa_job_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-12 03:44:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4faca89edbfbb300d7f8e4da4b9619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Active Weekly.temporary job for collecting NeedIt Request type</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_job_indicators_4faca89edbfbb300d7f8e4da4b9619ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-12 03:44:15</sys_updated_on>
+    </pa_job_indicators>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>aea90cf6dbac730052cec59705961926</instance_id>
+        <instance_name>dev78859</instance_name>
+        <name>pa_job_indicators_4faca89edbfbb300d7f8e4da4b9619ee</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_job_indicators"><pa_job_indicators action="INSERT_OR_UPDATE"><active>true</active><collect>2</collect><collect_indicator>true</collect_indicator><display>temporary job for collecting NeedIt Request type - NeedIt: Active Weekly</display><indicator display_value="NeedIt: Active Weekly">64b5cdcadbbf7300d7f8e4da4b9619e5</indicator><job display_value="temporary job for collecting NeedIt Request type">47acac5edbfbb300d7f8e4da4b961945</job><sys_class_name>pa_job_indicators</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-09-12 03:44:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4faca89edbfbb300d7f8e4da4b9619ee</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt: Active Weekly.temporary job for collecting NeedIt Request type</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_job_indicators_4faca89edbfbb300d7f8e4da4b9619ee</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-09-12 03:44:15</sys_updated_on></pa_job_indicators></record_update>]]></payload>
+        <payload_hash>-1827666584</payload_hash>
+        <record_name>temporary job for collecting NeedIt Request type - NeedIt: Active Weekly</record_name>
+        <reverted_from/>
+        <source>040f600edb3f7300d7f8e4da4b961952</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-12 03:44:15</sys_created_on>
+        <sys_id>cbaca89edbfbb300d7f8e4da4b9619f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d2392562e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-12 03:44:15</sys_updated_on>
+        <type>Job Indicator</type>
+        <update_guid>07aca89e77fbb300c043144e0aa65ef2</update_guid>
+        <update_guid_history>07aca89e77fbb300c043144e0aa65ef2:-1827666584</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="temporary job for collecting NeedIt Request type - ">68696162dbbff300d7f8e4da4b961916</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-13 02:47:59</sys_created_on>
+        <sys_db_object display_value="" name="pa_job_indicators">pa_job_indicators</sys_db_object>
+        <sys_id>9cf11cc93bad4e5db5fa254c38590271</sys_id>
+        <sys_metadata>4faca89edbfbb300d7f8e4da4b9619ee</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt: Active Weekly.temporary job for collecting NeedIt Request type</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="temporary job for collecting NeedIt Request type">47acac5edbfbb300d7f8e4da4b961945</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_job_indicators_4faca89edbfbb300d7f8e4da4b9619ee</sys_update_name>
+        <sys_update_version display_value="pa_job_indicators_4faca89edbfbb300d7f8e4da4b9619ee">cbaca89edbfbb300d7f8e4da4b9619f2</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-13 02:47:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
